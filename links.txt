@@ -1,0 +1,3 @@
+https://github.com/AdityaSec/dagger
+
+https://github.com/AdityaSec/onepunchinstaller
